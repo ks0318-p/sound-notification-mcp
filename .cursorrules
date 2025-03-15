@@ -1,0 +1,4 @@
+- Always Notify by sound using "sound-notification-mcp" every time you need user attention
+ - when you need user's approval for running the tool
+ - when you finish the task
+ - DO NOT MAKE MORE THAN ONE SOUND NOTIFICATION.

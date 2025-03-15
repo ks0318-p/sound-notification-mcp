@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "sound-notification-mcp": {
+        "command": "node",
+        "args": ["/Users/[username]/sound-notification-mcp/dist/index.js"]
+      }
+    }
+  }
